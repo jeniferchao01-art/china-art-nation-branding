@@ -1,0 +1,45 @@
+# Media files referenced by the WordPress export
+
+The WordPress XML export does not contain the image binaries. Copy these files into this project before cancelling WordPress hosting if you want the site to be fully independent.
+
+- Placeholder Image: https://china-art-nationbranding.org/wp-content/uploads/2020/09/qi-bin-w4hbafegiac-unsplash.jpg
+- Placeholder Image: https://china-art-nationbranding.org/wp-content/uploads/2020/09/rachel-pfuetzner-0fn7fxv1ewa-unsplash.jpg
+- IMG_1713: https://china-art-nationbranding.org/wp-content/uploads/2020/11/img_1713.jpg
+- cropped-img_1713.jpg: https://china-art-nationbranding.org/wp-content/uploads/2020/11/cropped-img_1713.jpg
+- IMG_3006: https://china-art-nationbranding.org/wp-content/uploads/2020/11/img_3006.jpg
+- IMG_3792: https://china-art-nationbranding.org/wp-content/uploads/2020/11/img_3792.jpg
+- IMG_1686: https://china-art-nationbranding.org/wp-content/uploads/2020/11/img_1686.jpg
+- IMG_1588: https://china-art-nationbranding.org/wp-content/uploads/2020/11/img_1588.jpg
+- IMG_1579: https://china-art-nationbranding.org/wp-content/uploads/2020/11/img_1579.jpg
+- IMG_1687: https://china-art-nationbranding.org/wp-content/uploads/2020/11/img_1687.jpg
+- IMG_1494: https://china-art-nationbranding.org/wp-content/uploads/2020/11/img_1494.jpg
+- IMG_1558: https://china-art-nationbranding.org/wp-content/uploads/2020/11/img_1558.jpg
+- IMG_3040: https://china-art-nationbranding.org/wp-content/uploads/2020/11/img_3040.jpg
+- IMG_2972: https://china-art-nationbranding.org/wp-content/uploads/2020/11/img_2972.jpg
+- IMG_1689: https://china-art-nationbranding.org/wp-content/uploads/2020/11/img_1689.jpg
+- IMG_3786: https://china-art-nationbranding.org/wp-content/uploads/2020/11/img_3786.jpg
+- IMG_3732: https://china-art-nationbranding.org/wp-content/uploads/2020/11/img_3732.jpg
+- IMG_3705: https://china-art-nationbranding.org/wp-content/uploads/2020/11/img_3705.jpg
+- IMG_1588: https://china-art-nationbranding.org/wp-content/uploads/2020/11/img_1588-1.jpg
+- IMG_3734: https://china-art-nationbranding.org/wp-content/uploads/2020/11/img_3734.jpg
+- IMG_1687: https://china-art-nationbranding.org/wp-content/uploads/2020/11/img_1687-1.jpg
+- IMG_3029: https://china-art-nationbranding.org/wp-content/uploads/2020/11/img_3029.jpg
+- img_1687-2: https://china-art-nationbranding.org/wp-content/uploads/2020/11/img_1687-2.jpg
+- IMG_3055: https://china-art-nationbranding.org/wp-content/uploads/2020/11/img_3055.jpg
+- IMG_1570 (1): https://china-art-nationbranding.org/wp-content/uploads/2020/11/img_1570-1.jpg
+- img_3040-1: https://china-art-nationbranding.org/wp-content/uploads/2020/11/img_3040-1.jpg
+- screenshot-2020-11-06-at-17.33.46: https://china-art-nationbranding.org/wp-content/uploads/2020/11/screenshot-2020-11-06-at-17.33.46.png
+- screenshot-2020-11-06-at-17.35.59: https://china-art-nationbranding.org/wp-content/uploads/2020/11/screenshot-2020-11-06-at-17.35.59.png
+- IMG_3728: https://china-art-nationbranding.org/wp-content/uploads/2020/11/img_3728.jpg
+- IMG_1494: https://china-art-nationbranding.org/wp-content/uploads/2020/11/img_1494-1.jpg
+- IMG_3029: https://china-art-nationbranding.org/wp-content/uploads/2020/11/img_3029-1.jpg
+- IMG_2970: https://china-art-nationbranding.org/wp-content/uploads/2020/11/img_2970.jpg
+- img_1689: https://china-art-nationbranding.org/wp-content/uploads/2020/12/img_1689.jpg
+- img_1689-1: https://china-art-nationbranding.org/wp-content/uploads/2020/12/img_1689-1.jpg
+- img_1570-1: https://china-art-nationbranding.org/wp-content/uploads/2020/12/img_1570-1.jpg
+- picture1: https://china-art-nationbranding.org/wp-content/uploads/2020/12/picture1.png
+- cropped-img_3705.jpg: https://china-art-nationbranding.org/wp-content/uploads/2020/11/cropped-img_3705.jpg
+- IMG_3080: https://china-art-nationbranding.org/wp-content/uploads/2021/01/img_3080.jpg
+- curator talk - Final - 4: https://china-art-nationbranding.org/wp-content/uploads/2022/04/curator-talk-final-4.mp4
+- curator-talk-final-4-1: https://china-art-nationbranding.org/wp-content/uploads/2022/04/curator-talk-final-4-1.mp4
+- venice-2022: https://china-art-nationbranding.org/wp-content/uploads/2022/07/venice-2022.mp4
